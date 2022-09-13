@@ -1,1 +1,3 @@
 # gitExercise
+
+Practicing with git
